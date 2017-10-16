@@ -1,0 +1,96 @@
+# encoding: utf-8
+# module win32comext.axscript.axscript
+# from D:\ProgramData\Anaconda3\lib\site-packages\win32comext\axscript\axscript.pyd
+# by generator 1.145
+""" A module, encapsulating the ActiveX Scripting interfaces. """
+# no imports
+
+# Variables with simple values
+
+INTERFACESAFE_FOR_UNTRUSTED_CALLER = 1
+INTERFACESAFE_FOR_UNTRUSTED_DATA = 2
+
+INTERFACE_USES_DISPEX = 4
+
+INTERFACE_USES_SECURITY_MANAGER = 8
+
+MULTICLASSINFO_GETIIDPRIMARY = 4
+MULTICLASSINFO_GETIIDSOURCE = 8
+MULTICLASSINFO_GETNUMRESERVEDDISPIDS = 2
+MULTICLASSINFO_GETTYPEINFO = 1
+
+SCRIPTINFO_ALL_FLAGS = 3
+
+SCRIPTINFO_ITYPEINFO = 2
+SCRIPTINFO_IUNKNOWN = 1
+
+SCRIPTINTERRUPT_ALL_FLAGS = 3
+
+SCRIPTINTERRUPT_DEBUG = 1
+SCRIPTINTERRUPT_RAISEEXCEPTION = 2
+
+SCRIPTITEM_ALL_FLAGS = 1614
+
+SCRIPTITEM_CODEONLY = 512
+SCRIPTITEM_GLOBALMEMBERS = 8
+SCRIPTITEM_ISPERSISTENT = 64
+SCRIPTITEM_ISSOURCE = 4
+SCRIPTITEM_ISVISIBLE = 2
+SCRIPTITEM_NOCODE = 1024
+
+SCRIPTPROC_ALL_FLAGS = 1952
+
+SCRIPTPROC_HOSTMANAGESSOURCE = 128
+
+SCRIPTPROC_IMPLICIT_PARENTS = 512
+SCRIPTPROC_IMPLICIT_THIS = 256
+
+SCRIPTSTATE_CLOSED = 4
+SCRIPTSTATE_CONNECTED = 2
+SCRIPTSTATE_DISCONNECTED = 3
+SCRIPTSTATE_INITIALIZED = 5
+SCRIPTSTATE_STARTED = 1
+SCRIPTSTATE_UNINITIALIZED = 0
+
+SCRIPTTEXT_ALL_FLAGS = 995
+
+SCRIPTTEXT_ISEXPRESSION = 32
+SCRIPTTEXT_ISPERSISTENT = 64
+SCRIPTTEXT_ISVISIBLE = 2
+
+SCRIPTTHREADSTATE_NOTINSCRIPT = 0
+SCRIPTTHREADSTATE_RUNNING = 1
+
+SCRIPTTYPELIB_ISCONTROL = 16
+SCRIPTTYPELIB_ISPERSISTENT = 64
+
+SCRIPT_E_REPORTED = -2147352319
+
+TIFLAGS_EXTENDDISPATCHONLY = 1
+
+# no functions
+# no classes
+# variables with complex values
+
+CATID_ActiveScript = None # (!) real value is ''
+
+CATID_ActiveScriptParse = None # (!) real value is ''
+
+IID_IActiveScript = None # (!) real value is ''
+
+IID_IActiveScriptError = None # (!) real value is ''
+
+IID_IActiveScriptParse = None # (!) real value is ''
+
+IID_IActiveScriptParseProcedure = None # (!) real value is ''
+
+IID_IActiveScriptSite = None # (!) real value is ''
+
+IID_IObjectSafety = None # (!) real value is ''
+
+IID_IProvideMultipleClassInfo = None # (!) real value is ''
+
+__loader__ = None # (!) real value is ''
+
+__spec__ = None # (!) real value is ''
+

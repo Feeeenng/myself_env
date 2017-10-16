@@ -1,0 +1,12 @@
+<templateSet group="User">
+  <template name="rscon" value="from redis import StrictRedis&#10;&#10;db_port = ''&#10;db_ip = ''&#10;db_password = ''&#10;&#10;&#10;def redis_connection():&#10;    db = StrictRedis(host=db_ip, port=db_port)&#10;    if len(db_password) != 0:&#10;&#10;        db = StrictRedis(host=db_ip, port=db_port,password=db_password)&#10;&#10;    return db&#10;" description="redis connection" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="mogo" value="&#10;from pymongo import MongoClient&#10;&#10;&#10;db_ip = ''&#10;db_port = ''&#10;db_username = ''&#10;db_password = ''&#10;&#10;def mongo_conection():&#10;    db = MongoClient(host=db_ip,port=db_port)&#10;    if len(db_username) != 0:&#10;        db = db.admin&#10;        db.authenticate(db_username,db_password)&#10;        return db&#10;&#10;    return db" description="mongo conection" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -1,0 +1,54 @@
+<application>
+  <component name="RecentDirectoryProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="E:/myself_env" />
+        <option value="E:/tuxi_background" />
+        <option value="E:/live_etl" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="E:/myself_env" />
+      </list>
+    </option>
+    <option name="lastPath" value="E:/myself_env" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="E:/live_etl">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-172.3968.37" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1508123527161" />
+              <option name="buildTimestamp" value="1504274473666" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/myself_env">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-172.3968.37" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1508127461875" />
+              <option name="buildTimestamp" value="1504274503675" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/tuxi_background">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-172.3968.37" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1508127447491" />
+              <option name="buildTimestamp" value="1504274503675" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>
